@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+.col-2{
+    display: flex;
+    
+}
+
+.logo{
+    margin-top: 20px;
+    margin-left: -50px;
+}
+
+   
+
+
+.arber{
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 133.6%;
+    margin-top: 40px;
+    margin-left: -15px;
+    color: #99BAED;
+}
+
+.list{
+    margin-top: 50px;
+    display: flex;
+    margin-left: -300px;
+}
+
+ .list .list_item{
+    list-style: none;
+    padding-left: 40px;
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 133.6%;
+    color: #163561;
+}
+
+
+.list .list_itemX{
+    list-style: none;
+    /* padding-left: 40px; */
+    background: #A3C1EF;
+    border-radius: 5px;
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 133.6%;
+    color: #FFFFFF;
+   
+}
+
+.img0{
+    margin-left: -200px;
+    margin-top: 40px;
+}
+
+.img1{
+    margin-left: -100px;
+    margin-top: 40px;
+}
+
+.Appointment{
+    width: 188px;
+    height: 76px;
+    background: #99BAED;
+    border-radius: 20px;
+    border: none;
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150.6%;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.one{
+    display: flex;
+   
+}
+
+.hairstyle span{
+    font-family: 'Catamaran';
+font-style: normal;
+font-weight: 700;
+font-size: 75px;
+line-height: 133.6%;
+color: #FBB400;
+
+
+}
+
+
+.hairstyle{
+    width: 576px;
+height: 300px;
+    font-family: 'Catamaran';
+font-style: normal;
+font-weight: 700;
+font-size: 75px;
+line-height: 133.6%;
+color: #163561;
+margin-top: 50px;
+
+}
+
+
+.img2{
+ margin-top: 40px;
+ width: 750px;
+}
+
+.it{
+    font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 150.6%;
+/* or 38px */
+
+letter-spacing: 0.03em;
+
+color: #153461;
+
+opacity: 0.65;
+}
+
+.GetStarted{
+    background: #99BAED;
+border-radius: 20px;
+width: 188px;
+height: 75px;
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 150.6%;
+letter-spacing: 0.03em;
+border: none;
+
+color: #FFFFFF;
+
+}
+
+.section{
+    top: 1092px;
+    background: linear-gradient(7.58deg, #6a90b1 12.51%, rgba(177, 212, 242, 0) 91.24%);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.vector{
+    display: flex;
+}
+
+.two1{
+    display: flex;
+}
+
+.two2{
+    width: 700px;
+    margin-top: 50px;
+}
+
+.our{
+    font-family: 'Catamaran';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 150.6%;
+letter-spacing: 0.03em;
+color: #163561;
+margin-top: 150px;
+margin-left: 150px;
+
+}
+
+.our span{
+    font-family: 'Catamaran';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 150.6%;
+    letter-spacing: 0.03em;
+    color: #FBB400;
+   
+
+}
+
+.it1{
+    font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 150.6%;
+letter-spacing: 0.03em;
+
+color: #153461;
+
+opacity: 0.65;
+margin-left: 150px;
+margin-top: 75px;
+}
+
+.it2{
+    font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 150.6%;
+letter-spacing: 0.03em;
+
+color: #153461;
+
+opacity: 0.65;
+margin-left: 150px;
+margin-top: 75px;
+}
