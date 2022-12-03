@@ -369,4 +369,42 @@ color: #FFFFFF;
 margin-top: 75px;
 background: #99BAED;
 border-radius: 20px;
+border: none;
     }
+
+    .seven{
+        margin-top: 200px;
+    }
+
+.it3{
+font-family: 'Catamaran';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 150.6%;
+/* or 38px */
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #153461;
+
+opacity: 0.65;
+}
+
+
+.seven1{
+    display: flex;
+}
+
+.logo2{
+    background: #99BAED;
+transform: matrix(0.53, -0.85, 0.84, 0.53, 0, 0);
+}
+
+
+
+
+   
+
+
